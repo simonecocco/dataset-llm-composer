@@ -1,0 +1,8 @@
+transformers
+bitsandbytes
+tqdm
+torch
+huggingface_hub
+accelerate
+protobuf
+sentencepiece
